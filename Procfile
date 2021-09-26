@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run vehicle_default_prediction_model.py
+web: sh setup.sh && streamlit run Vehicle_loan_default.py
